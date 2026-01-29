@@ -1,0 +1,7 @@
+{
+  "name": "Elevate1401",
+  "description": "A personalized productivity platform powered by Pranto AI, designed to elevate your daily growth with intelligent task management and motivational support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
